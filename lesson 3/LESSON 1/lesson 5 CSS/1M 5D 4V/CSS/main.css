@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(190, 187, 187);
+  margin-top: 50px;
+}
+
+div {
+  margin-left: auto;
+  border: 1px solid wheat;
+  margin-right: auto;
+  text-align: center;
+  width: 890px;
+  height: 570px;
+  margin-top: 20px;
+  background-color: white;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.nom-1 {
+  background-color: lavender;
+}
+table {
+  padding: 24px 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+}
+.nom-2 {
+  margin: 100px 200px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-size: 12px;
+  color: grey;
+}
+b {
+  font-size: 17px;
+  color: black;
+}
+.nom-3 {
+  color: rgb(0, 132, 255);
+}

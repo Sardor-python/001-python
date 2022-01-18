@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "Open-Sans Bold";
+  src: url("../fonts/OpenSans-Bold.ttf"), format(truetype);
+}
+@font-face {
+  font-family: "Open-Sans Light";
+  src: url("../fonts/OpenSans-Light.ttf") format(truetype);
+}
+
+.nom-1 {
+  border: 1px solid white;
+  width: 879px;
+  height: 100px;
+  padding: 30px 235px;
+  margin-top: 250px;
+  margin-left: 0px;
+  background-color: white;
+}
+body {
+  margin-left: 0px;
+  background-color: gainsboro;
+}
+b {
+  font-family: "Open-Sans Bold", sans-serif;
+}
+.nom-2 {
+  background-image: linear-gradient(
+    90deg,
+    rgba(223, 57, 201, 0.918),
+    rgb(253, 191, 76)
+  );
+  padding: 11px 18px;
+  color: white;
+  font-family: "Open-Sans Light", sans-serif;
+  font-size: 10px;
+}
+.nom-3 {
+  background-image: linear-gradient(
+    90deg,
+    rgb(185, 210, 238),
+    rgb(35, 92, 214)
+  );
+  padding: 11px 18px;
+  color: white;
+  font-family: "Open-Sans Light", sans-serif;
+  font-size: 10px;
+}
+.nom-4 {
+  background-image: linear-gradient(
+    90deg,
+    rgba(173, 233, 213, 0.904),
+    rgb(140, 231, 140)
+  );
+  padding: 11px 18px;
+  color: white;
+  font-family: "Open-Sans Light", sans-serif;
+  font-size: 10px;
+}
+.nom-5 {
+  background-image: linear-gradient(
+    90deg,
+    rgb(133, 56, 185),
+    rgb(245, 53, 213)
+  );
+  padding: 11px 18px;
+  color: white;
+  font-family: "Open-Sans Light", sans-serif;
+  font-size: 10px;
+}
+.nom-6 {
+  background-image: linear-gradient(
+    90deg,
+    rgb(218, 211, 211),
+    rgb(219, 216, 216)
+  );
+  padding: 11px 18px;
+  color: white;
+  font-family: "Open-Sans Light", sans-serif;
+  font-size: 10px;
+}

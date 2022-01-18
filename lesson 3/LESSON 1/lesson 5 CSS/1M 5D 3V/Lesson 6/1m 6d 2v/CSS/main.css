@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Open-Sans Bold;
+  src: url(../font/OpenSans-Bold.ttf) format(truetype);
+}
+
+body {
+  background-image: url("../images/12.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: gainsboro;
+  background-position: 1px 35px;
+  margin-right: 0 auto;
+  margin-left: 0 auto;
+  text-align: center;
+  padding: 230px 300px;
+  font-size: 50px;
+
+  color: white;
+}
+b {
+  font-family: "Open-Sans Bold", sans-serif;
+}
+a {
+  border: 1px solid gray;
+  color: white;
+  font-family: "Open-Sans Bold", sans-serif;
+  font-size: 12px;
+  padding: 10px 23px;
+  text-decoration: none;
+}

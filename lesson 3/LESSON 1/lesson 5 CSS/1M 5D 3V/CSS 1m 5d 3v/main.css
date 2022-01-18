@@ -1,0 +1,30 @@
+.box {
+  height: 350px;
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 150px;
+  background-color: white;
+  padding-left: 60px;
+  padding-right: 0px;
+}
+.nom-1 {
+  text-align: center;
+}
+.nom-3 {
+  padding: 1rem;
+}
+body {
+  background-color: gainsboro;
+}
+h1 {
+  padding-top: 70px;
+  padding-right: 60px;
+  text-align: center;
+  font-family: emoji;
+}
+.nom-2 {
+  color: chocolate;
+  padding-top: 0;
+  margin: 0;
+}

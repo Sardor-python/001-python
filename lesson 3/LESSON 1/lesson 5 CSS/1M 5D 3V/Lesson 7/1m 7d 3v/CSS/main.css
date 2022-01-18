@@ -1,0 +1,63 @@
+body {
+  background-color: gainsboro;
+  margin-top: 0%;
+}
+.nom-0 {
+  border: 1px solid lavender;
+  margin: 0 auto;
+  width: 1230px;
+  height: 600px;
+  background-color: lavender;
+  display: flex;
+  justify-content: center;
+}
+.nom-1 {
+  border: 1px solid white;
+  background-color: white;
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 240px;
+  height: 240px;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+.nom-2 {
+  font-weight: bold;
+  font-size: 14px;
+  font-family: sans-serif;
+  margin-top: 0%;
+}
+.nom-3 {
+  font-size: 26px;
+  font-family: sans-serif;
+  margin-top: 0%;
+}
+.nom-4 {
+  font-size: 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: rgb(47, 40, 77);
+}
+.nom-5 {
+  border: 1px solid white;
+  display: inline-block;
+}
+.nom-6 {
+  display: inline-block;
+  border: 1px solid white;
+  margin-left: 50px;
+}
+.nom-7 {
+  font-size: 17px;
+  font-family: sans-serif;
+}
+.nom-10 {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+hr {
+  width: 230px;
+}
+.nom-11 {
+  color: rgb(105, 187, 105);
+}

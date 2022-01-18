@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Open-Sans-ExtraBold";
+  src: url("../font/OpenSans-ExtraBold.ttf") format(truetype);
+}
+@font-face {
+  font-family: "Open-Sans-Italic";
+  src: url("../font/OpenSans-Italic.ttf") format(truetype);
+}
+body {
+  background-color: gainsboro;
+  margin-top: 80px;
+}
+.nom-0 {
+  background-color: white;
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px 10px;
+  width: 790px;
+  height: 425px;
+  background-image: url("../images/main-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: 10px 15px;
+  background-size: 829px;
+  padding-top: 55px;
+  padding-left: 50px;
+}
+.nom-1 {
+  border: 1px solid white;
+  width: 280px;
+  height: 325px;
+  background-color: rgb(237, 237, 248);
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-right: 35px;
+}
+.nom-2 {
+  font-family: serif;
+  font-size: 30px;
+  line-height: 35px;
+  font-weight: bold;
+}
+.nom-3 {
+  font-family: "Open-Sans-Italic", sans-serif;
+  font-size: 12px;
+  color: rgb(179, 176, 176);
+}
+.nom-4 {
+  font-family: "Open-Sans-Italic", sans-serif;
+  font-size: 12px;
+  line-height: 22px;
+  color: gray;
+}
+.nom-5 {
+  border: 1px solid rgb(26, 26, 77);
+  padding: 10px 10px;
+  width: 80px;
+  font-size: 11px;
+  font-family: "Open-Sans-Italic", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: rgb(50, 50, 148);
+}
+.nom-6 {
+  color: rgb(50, 50, 148);
+}

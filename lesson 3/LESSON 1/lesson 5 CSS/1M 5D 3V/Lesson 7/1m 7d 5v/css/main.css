@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "Open-Sans-SemiBold";
+  src: url "(../font/OpenSans-SemiBold.ttf),format(truetype)";
+}
+
+body {
+  background-color: lightgray;
+  margin-top: 40px;
+}
+.nom-1 {
+  margin: auto;
+  width: 850px;
+  height: 490px;
+  border: 1px solid gainsboro;
+  background-color: rgb(240, 235, 235);
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}
+.nom-0 {
+  width: 400px;
+  height: 230px;
+  border: 1px solid white;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+}
+.nom-2 {
+  font-size: 22px;
+  font-family: "Open-Sans-SemiBold", sans-serif;
+}
+.nom-3 {
+  font-size: 12px;
+  font-family: monospace;
+  font-style: italic;
+  text-align: left;
+  margin-right: 10px;
+}
+.nom-4 {
+  font-family: sans-serif;
+  color: brown;
+  font-size: 15px;
+}
+.nom-5 {
+  border: 1px solid gainsboro;
+  background-color: gainsboro;
+  width: 75px;
+  height: 20px;
+  padding: 10px 25px;
+}
+a {
+  color: black;
+  text-decoration: none;
+
+  font-size: 11px;
+  font-family: sans-serif;
+}
+.nom-6 {
+  text-align: left;
+}
+img {
+  width: 170px;
+  height: 180px;
+  margin: 25px 5px;
+}

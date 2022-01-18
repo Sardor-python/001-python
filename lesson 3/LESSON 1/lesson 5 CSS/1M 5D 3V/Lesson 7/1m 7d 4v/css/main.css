@@ -1,0 +1,59 @@
+body {
+  background-color: gainsboro;
+  margin-top: auto;
+}
+.nom-0 {
+  background-color: white;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-left: 4rem;
+
+  width: 670px;
+  height: 580px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.nom-1 {
+  width: 240px;
+  height: 170px;
+  margin-left: 0rem;
+}
+.nom-2 {
+  width: 280px;
+  height: 170px;
+  margin-right: 0rem;
+}
+.nom-3 {
+  width: 300px;
+  height: 170px;
+}
+.nom-4 {
+  margin-left: 0.5rem;
+  margin-right: 1.2rem;
+}
+.nom-5 {
+  margin-left: 7rem;
+}
+.nom-6 {
+  margin-left: 1rem;
+  font-size: 12px;
+  color: gainsboro;
+  font-family: sans-serif;
+}
+.nom-7 {
+  font-family: sans-serif;
+  font-size: 14.3px;
+  margin-bottom: 1.3rem;
+}
+.nom-8 {
+  color: gray;
+  font-family: sans-serif;
+  font-size: 11px;
+  margin-bottom: 3rem;
+}
+.nom-9 {
+  font-size: 14.3px;
+  font-family: sans-serif;
+  margin-bottom: 4.7rem;
+}
